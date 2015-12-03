@@ -5,6 +5,8 @@
  *  Author: Sergiusz Wojcik
  */ 
 
+ // Zadanie 4 - program zliczajacy diody, uzywajacy blinka, sluzacy do wykorzystania interruptow
+ 
 #define F_CPU 16000000UL
 #include <avr/io.h>
 #include <util/delay.h>
