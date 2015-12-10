@@ -6,7 +6,7 @@
  */ 
 
 // Program odliczajacy sekundy na 7segmentowych wyswietlaczach led.
-
+//s
 #define F_CPU 16000000UL
 #include <avr/io.h>
 #include <util/delay.h>
